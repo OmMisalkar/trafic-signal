@@ -1,0 +1,27 @@
+div{
+    height:300px;
+    width: 90px;
+    background-color: black;
+    padding-top: 5px;
+}
+.a{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color:rgba(251, 26, 30, 0.751);
+    margin: auto;
+}
+.b{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgba(234, 245, 21, 0.927);
+    margin:auto;
+}
+.c{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color: rgba(10, 204, 78, 0.707);
+    margin: auto;
+}
